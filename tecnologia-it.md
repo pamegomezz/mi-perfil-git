@@ -1,3 +1,7 @@
+# Tecnología IT que me gustaría aprender
+
+## ¿Qué tecnología es?
+La inteligencia artificial es una tecnología que permite crear sistemas capaces de realizar tareas que normalmente requieren inteligencia humana.
 
 ## ¿Por qué me interesa?
 Me interesa porque puede ayudarme a desarrollar proyectos y facilitar diferentes tareas.
