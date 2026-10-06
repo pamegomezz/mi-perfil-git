@@ -5,3 +5,6 @@ La inteligencia artificial es una tecnología que permite crear sistemas capaces
 
 ## ¿Por qué me interesa?
 Me interesa porque puede ayudarme a desarrollar proyectos y facilitar diferentes tareas.
+
+## ¿Qué necesito aprender primero?
+Primero necesito aprender los conceptos básicos de programación, cómo funcionan los datos y cómo utilizar herramientas de inteligencia artificial.
