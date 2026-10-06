@@ -11,3 +11,5 @@ Primero necesito aprender los conceptos básicos de programación, cómo funcion
 
 ## ¿Qué me gustaría construir con ella?
 Me gustaría construir aplicaciones y proyectos que ayuden a resolver problemas y faciliten diferentes tareas.
+
+Esta tecnología puede ser útil para desarrollar nuevos proyectos.
